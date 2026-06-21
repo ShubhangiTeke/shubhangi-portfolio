@@ -39,7 +39,7 @@ This portfolio is built to present my technical journey, projects, and achieveme
 ---
 
 ## 📬 Contact
-- Email: your-shubahgniteke30@gmail.com  
+- Email:shubahgniteke30@gmail.com  
 - LinkedIn: https://linkedin.com/in/shubhangi-teke- 
 - GitHub: https://github.com/ShubhangiTeke
 
