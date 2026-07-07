@@ -5,11 +5,6 @@ This is my personal portfolio website built to showcase my skills, projects, ach
 
 ---
 
-## 🚀 Live Website
-👉 https://your-vercel-link.vercel.app
-
----
-
 ## 📌 Features
 - Responsive modern UI/UX design
 - Smooth animations and transitions
